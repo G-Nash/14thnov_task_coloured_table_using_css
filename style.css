@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+table, td {
+    border: 2px solid white;
+    color: white;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td{
+    height: 100px;
+    width: 100px;
+    color: black;
+    font-weight: bold;
+}
+
+#oneone{
+    background-color: #64FFB7;
+}
+
+#onetwo{
+    background-color: #5DFDBC;
+}
+
+#twoone{
+    background-color: #57FBC0;
+}
+
+#onethree{
+    background-color: #50FAC5;
+}
+
+#twotwo{
+    background-color: #49F8CA;
+}
+
+#threeone{
+    background-color: #43F6CE;
+}
+
+#onefour{
+    background-color: #3CF4D3;
+}
+
+#twothree{
+    background-color: #35F2D8;
+}
+
+#threetwo{
+    background-color: #2FF1DC;
+}
+
+#fourone{
+    background-color: #28EFE1;
+}
+
+#twofour{
+    background-color: #21EDE6;
+}
+
+#threethree{
+    background-color: #1BEBEA;
+}
+
+#fourtwo{
+    background-color: #14E9EF;
+}
+
+#threefour{
+    background-color: #0DE8F4;
+}
+
+#fourthree{
+    background-color: #07E6F8;
+}
+
+#fourfour{
+    background-color: #00E4FD;
+}
+
+#oneone:hover, #onetwo:hover, #onethree:hover, #onefour:hover, #twoone:hover, #twotwo:hover, #twothree:hover, #twofour:hover, #threeone:hover, #threetwo:hover, #threethree:hover, #threefour:hover, #fourone:hover, #fourtwo:hover, #fourthree:hover, #fourfour:hover{
+    background-color: white;
+}
