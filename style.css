@@ -88,6 +88,9 @@ th, td{
     background-color: #00E4FD;
 }
 
-#oneone:hover, #onetwo:hover, #onethree:hover, #onefour:hover, #twoone:hover, #twotwo:hover, #twothree:hover, #twofour:hover, #threeone:hover, #threetwo:hover, #threethree:hover, #threefour:hover, #fourone:hover, #fourtwo:hover, #fourthree:hover, #fourfour:hover{
-    background-color: white;
+#oneone:hover, #onetwo:hover, #onethree:hover, #onefour:hover, #twoone:hover, #twotwo:hover, #twothree:hover, #twofour:hover, #threeone:hover, #threetwo:hover, #threethree:hover, #threefour:hover, #fourone:hover, #fourtwo:hover, #fourthree:hover, #fourfour:hover
+{
+/*     background-color: white; */
+    transform: scale(1.35);
+    transition: transform 0.3s ease;
 }
