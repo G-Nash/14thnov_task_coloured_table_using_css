@@ -1,5 +1,8 @@
 body{
     background-color: black;
+    display:flex;
+    align-item:center;
+    justify-content:center;
 }
 
 h1{
